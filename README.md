@@ -18,6 +18,7 @@ Make sure you have Python installed on your system. You will also need to instal
 - `numpy`
 - `matplotlib`
 - `sympy`
+  
 
 You can install these libraries using `pip`:
 
