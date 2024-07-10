@@ -1,4 +1,4 @@
-# lagrange-interpolation-visualization
+# Lagrange Interpolation Visualization
 
 This project visualizes the process of constructing a Lagrange Interpolating Polynomial given a set of data points. The visualization includes an animation that shows how the polynomial is built step-by-step, and it prints the final simplified polynomial equation.
 
