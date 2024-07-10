@@ -67,7 +67,7 @@ After the animation, the simplified polynomial will be printed. For example:
 
 ```bash
 Final Lagrange Interpolating Polynomial:
-x**2 - 1.0*x + 2.0
+P(x)= -0.0158730158730159*x**3 + 0.0396825396825398*x**2 + 0.753968253968254*x + 1.22222222222222
 ```
 
 ## Explanation of Files
